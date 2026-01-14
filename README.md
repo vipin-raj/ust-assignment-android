@@ -37,7 +37,7 @@ Android application with OAuth 2.0 authentication, mDNS device discovery, and pu
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vipin-raj/ust-assignment-android.git
 cd ustproj
 ```
 
